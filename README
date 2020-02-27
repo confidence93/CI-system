@@ -1,0 +1,1 @@
+Nowadays, the more and more common trend of big factories is that python is devops related, golang is middleware, and JAVA handles business logic. This change is also due to the rise of cloud computing, which brings new challenges to operations and maintenance. Mere use does not satisfy me. I want to dig into the underlying logic of CI / CD, so with this repository
